@@ -13,7 +13,7 @@ Gold Layer: Houses business-ready data modeled into a star schema required for r
 ### Build Data Warehouse (Data Engeneering) 
 
 #### Objective
-Develop a modern datawarehouse using SQL Server to consolidate sales data, enabling analytical reporting and informing decision - making.
+Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informing decision - making.
 
 ####Specifications
 - **Data Sources** : Import data from two source systems (ERP and CRM) provide a CVS files.
